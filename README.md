@@ -514,7 +514,7 @@ print(result)
 
 ## 📞 Support & Documentation
 
-- **GitHub**: [Repository Link](https://github.com/SaranyaSarangi/Multi-agent-KPI-analysis-)
+- **GitHub**: [Repository Link]([https://github.com/SaranyaSarangi/Multi-agent-KPI-analysis-](https://github.com/SUBHOJIT-tech/multi-agent-kpi-platform/tree/main))
 - **Documentation**: [Docs Site]
 - **API Reference**: [API Docs]
 - **Examples**: See `/examples` directory
