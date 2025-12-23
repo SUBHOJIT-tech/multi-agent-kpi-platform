@@ -519,14 +519,23 @@ print(result)
 ---
 
 ## 📞 Support & Documentation
+## 📞 Support & Documentation
 
-- **GitHub**: [Repository Link](https://github.com/SaranyaSarangi/Multi-agent-KPI-analysis-)
-- **Documentation**: [Docs Site]
-- **API Reference**: [API Docs]
-- **Examples**: See `/examples` directory
-- **Issues**: Report on GitHub Issues
+- **GitHub Repository**:  
+  👉 https://github.com/SUBHOJIT-tech/multi-agent-kpi-platform
 
----
+- **Frontend (Live App)**:  
+  👉 https://YOUR-VERCEL-LINK.vercel.app
+
+- **Backend API (Render)**:  
+  👉 https://multi-agent-kpi-backend.onrender.com
+
+- **API Documentation (Swagger)**:  
+  👉 https://multi-agent-kpi-backend.onrender.com/docs
+
+- **Issues & Bug Reports**:  
+  👉 https://github.com/SUBHOJIT-tech/multi-agent-kpi-platform/issues
+
 
 *Last Updated: November 2025*  
 *Version: 1.0.0*  
