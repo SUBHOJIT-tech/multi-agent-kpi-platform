@@ -1,8 +1,5 @@
 # 🏗️ KPI Multi-Agent Analysis Platform - Complete Architecture
-
-<p align="center">
-  <img src="thumbnail.jpeg" width="400">
-</p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/beb844e6-e8f3-4c8f-964f-47984b3b35df" />
 
 ## 📋 Table of Contents
 1. [System Overview](#system-overview)
@@ -32,10 +29,7 @@ Enterprise-grade KPI anomaly detection system using multi-agent AI architecture 
 ---
 
 ## 2. Architecture Diagram
-
-<p align="center">
-  <img src="img1.png" width="400">
-</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5903b558-0f6b-404a-98ff-7daca392d450" />
 
 ## 3. Component Details
 
